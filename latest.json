@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "EZPos v1.0.0",
   "publishedDate": "2026-05-06T00:00:00Z",
-  "releaseNotes": "Initial update manifest. Replace this text on every release.",
-  "downloadUrl": "https://github.com/REPLACE_OWNER/REPLACE_REPO/releases/download/v1.0.0/EZPos-Setup-v1.0.0.exe",
+  "releaseNotes": "UpdateSystem - Test",
+  "downloadUrl": "https://github.com/Reef-hash/EZPos-System/releases/download/v33/EZPos-Setup-v1.0.0.exe",
   "checksum": {
     "algorithm": "sha256",
-    "value": "REPLACE_WITH_SHA256"
+    "value": "sha256:7e94c48660a25851f43f36714e3d127188f2c719890be6aae2ea6aa1ca8f719e"
   },
   "mandatory": false,
   "minimumVersion": "1.0.0",
