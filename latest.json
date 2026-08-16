@@ -1,12 +1,12 @@
 {
-  "version": "1.5.8",
-  "name": "EZPos v1.5.8",
-  "publishedDate": "2026-06-04T21:34:26Z",
-  "releaseNotes": "Automated release for v1.5.8",
-  "downloadUrl": "https://github.com/Reef-hash/EZPos-System/releases/download/v1.5.8/EZPos-Setup-v1.5.8.exe",
+  "version": "1.5.9",
+  "name": "EZPos v1.5.9",
+  "publishedDate": "2026-08-16T10:01:44Z",
+  "releaseNotes": "Automated release for v1.5.9",
+  "downloadUrl": "https://github.com/Reef-hash/EZPos-System/releases/download/v1.5.9/EZPos-Setup-v1.5.9.exe",
   "checksum": {
     "algorithm": "sha256",
-    "value": "bad839b8612b11f147cd9f81d22bad8f35ef49e0cf8724995f545070d71af6af"
+    "value": "3d4705552cfc90031e66114c1d5f1aedb527a91b085e80441703e824dab1b94c"
   },
   "mandatory": false,
   "minimumVersion": "1.0.0",
